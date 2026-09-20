@@ -1,5 +1,4 @@
-# latte-trade-hackathon
-# ☕ Latte Trade — MochaTrade Track 2 Prototype
+# ☕ Latte Trade — MochaTrade Track 2 hackthon Prototype
 
 An interactive frontend prototype engineered for the **RVCE ACM MarketSphere 2026** finance hackathon in association with **MochaTrade (YC S26)**. 
 
@@ -17,5 +16,5 @@ Latte Trade solves this bottom-of-the-funnel drop-off by shifting the onboarding
 ## 🔐 How to Run & Review
 1. Clone this repository locally.
 2. Open `index.html` directly in any web browser.
-3. Use the demo access password: **market-sphere-2026** *(or enter your custom password here)*
+3. Use the demo access password: **ACM@2026**.
 
