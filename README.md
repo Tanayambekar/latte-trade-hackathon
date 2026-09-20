@@ -15,6 +15,6 @@ Latte Trade solves this bottom-of-the-funnel drop-off by shifting the onboarding
 
 ## 🔐 How to Run & Review
 1. Clone this repository locally.
-2. Open `index.html` directly in any web browser.
+2. Open `latte-trade.html` directly in any web browser.
 3. Use the demo access password: **ACM@2026**.
 
